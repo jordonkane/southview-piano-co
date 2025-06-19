@@ -47,4 +47,4 @@
 ![pianoss9](https://github.com/jordonkane/piano-store/assets/55868384/fb83761e-7cda-4cfa-ad0a-fd368dcae7ae)
 
 Successful build:
-![image](https://github.com/jordonkane/piano-store/assets/55868384/3a64b03e-ce3b-4f2d-a1a1-2a602c5d0c61)
+![successful_build](https://github.com/user-attachments/assets/6200ec1d-19cd-42a8-9b11-5a93044288d9)
